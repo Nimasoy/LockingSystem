@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nmv\\Desktop\\LockingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15679D87-E368-4E29-AB79-EBC58F15A6E0}|LockingSystem\\LockingSystem.csproj|c:\\users\\nmv\\desktop\\lockingsystem\\lockingsystem\\distributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15679D87-E368-4E29-AB79-EBC58F15A6E0}|LockingSystem\\LockingSystem.csproj|solutionrelative:lockingsystem\\distributedlockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D87498-E6B5-401D-B385-509681CADDAA}|LockingSystemTests\\LockingSystemTests.csproj|c:\\users\\nmv\\desktop\\lockingsystem\\lockingsystemtests\\distributedlockservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D87498-E6B5-401D-B385-509681CADDAA}|LockingSystemTests\\LockingSystemTests.csproj|solutionrelative:lockingsystemtests\\distributedlockservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D87498-E6B5-401D-B385-509681CADDAA}|LockingSystemTests\\LockingSystemTests.csproj|c:\\users\\nmv\\desktop\\lockingsystem\\lockingsystemtests\\backgroundjobqueuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D87498-E6B5-401D-B385-509681CADDAA}|LockingSystemTests\\LockingSystemTests.csproj|solutionrelative:lockingsystemtests\\backgroundjobqueuetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistributedLockService.cs",
+              "DocumentMoniker": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystem\\DistributedLockService.cs",
+              "RelativeDocumentMoniker": "LockingSystem\\DistributedLockService.cs",
+              "ToolTip": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystem\\DistributedLockService.cs",
+              "RelativeToolTip": "LockingSystem\\DistributedLockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:07:04.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DistributedLockServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystemTests\\DistributedLockServiceTests.cs",
+              "RelativeDocumentMoniker": "LockingSystemTests\\DistributedLockServiceTests.cs",
+              "ToolTip": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystemTests\\DistributedLockServiceTests.cs",
+              "RelativeToolTip": "LockingSystemTests\\DistributedLockServiceTests.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:04:02.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackgroundJobQueueTests.cs",
+              "DocumentMoniker": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystemTests\\BackgroundJobQueueTests.cs",
+              "RelativeDocumentMoniker": "LockingSystemTests\\BackgroundJobQueueTests.cs",
+              "ToolTip": "C:\\Users\\nmv\\Desktop\\LockingSystem\\LockingSystemTests\\BackgroundJobQueueTests.cs",
+              "RelativeToolTip": "LockingSystemTests\\BackgroundJobQueueTests.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T18:03:20.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
