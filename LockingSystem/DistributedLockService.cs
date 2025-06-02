@@ -56,7 +56,7 @@ namespace LockingSystem
                         return false;
                     }
 
-                    await actionTask; // Propagate any exceptions
+                    await actionTask; // tell us any exceptions
                     return true;
                 }
                 catch (OperationCanceledException)

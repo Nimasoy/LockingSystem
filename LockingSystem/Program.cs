@@ -38,14 +38,15 @@ namespace LockingSystem
             jobQueue.Enqueue(new BackgroundJob("job1", async () =>
             {
                 Console.WriteLine($"[Job1] Running at {DateTime.Now}");
-                await Task.Delay(2000); // simulate work
+                await Task.Delay(2000); // work delay
             }));
 
             jobQueue.Enqueue(new BackgroundJob("job2", async () =>
             {
                 Console.WriteLine($"[Job2] Running at {DateTime.Now}");
-                await Task.Delay(1500); // simulate work
+                await Task.Delay(1500); // work delay
             }));
+
             //duplicate testing
             jobQueue.Enqueue(new BackgroundJob("job1", async () =>
             {
