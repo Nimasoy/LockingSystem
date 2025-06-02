@@ -16,7 +16,6 @@ namespace LockingSystem
             _lockService = lockService;
             _logger = logger;
             _statusTracker = statusTracker;
-            _statusTracker = statusTracker;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -60,11 +59,11 @@ namespace LockingSystem
                 }
                 try
                 {
-                    await Task.Delay(1000, stoppingToken); // Polling interval
+                    await Task.Delay(1000, stoppingToken); // delay interval
                 }
                 catch (TaskCanceledException)
                 {
-                    // Gracefully exit when cancellation is requested during delay
+                    // exit when cancellation is requested during delay
                     break;
                 }
             }
